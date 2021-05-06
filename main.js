@@ -71,5 +71,5 @@ setTimeout(function(){
             hai indovinato ${numeriRicordati.length} numeri/o: ${numeriRicordati}
         </span>`;
     
-}, 3000);
+}, 30000);
 
